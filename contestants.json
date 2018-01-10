@@ -190,6 +190,14 @@
 			"facebook": "",
 			"github": "https://github.com/brain-sick",
 			"twitter": ""
+      },
+      {
+	       "name":"Pranjal Gupta",
+         "imageurl":" contestant/IMG_20171225_183446.jpg",
+         "about":"",
+         "facebook":"https://www.facebook.com/pranjal.gupta.562",
+         "github":"https://github.com/pranjalg2308",
+         "twitter":""   
       },	    
       {
         "name":"Arsh Panghal",
@@ -206,6 +214,25 @@
          "facebook":"",
          "github":"https://github.com/gau1rav",
          "twitter":""
+      },
+      {
+	 "name":"Amritesh Bhaskar",
+         "imageurl":"contestant/amy.jpeg",
+         "about":"Just a Beginner. but Beware!...",
+         "facebook":"https://www.facebook.com/technoamritesh",
+         "github":"https://github.com/amriteshbhaskar",
+         "twitter":""
+	   
+      },
+      {
+	 "name":"Tanmay Mittal",
+         "imageurl":"contestant/tanmay.jpeg",
+         "about":"New to this Developer's World",
+         "facebook":"https://www.facebook.com/tanmay.mittal.106",
+         "github":"https://github.com/strikertanmay",
+         "twitter":""
+	   
       }
+	
    ]
 }
